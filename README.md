@@ -1,10 +1,10 @@
 ## Hi there 👋
 # 👋 Hi, I'm Hooman Sabzi
 
-🎓 MSc in Physics of Data | University of Padua
-🎓 BSc in Physics
-💻 Interested in Machine Learning, Data Science & Physics  
-🌍 Based in Padua, Italy
+- 🎓 MSc in Physics of Data | University of Padua
+- 🎓 BSc in Physics
+- 💻 Interested in Machine Learning, Data Science & Physics  
+- 🌍 Based in Padua, Italy
 
 ## 🚀 Projects
 - 🔬 [Quantum Simulation Toolkit](https://github.com/your-username/quantum-sim)
