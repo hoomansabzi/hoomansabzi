@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-### Welcome to Ginevra Beltrame's GitHub!
+### Welcome to Hooman Sabzi's GitHub!
 
 - 📚 MSc student at UniPD specializing in Computational Physics of the Complex Systems, Data Analysis and Machine Learning
 - 🔭 Primarily interested in Neuroscience, Large Language Models and Quantum Information Theory
