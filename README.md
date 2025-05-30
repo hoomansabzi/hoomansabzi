@@ -1,17 +1,17 @@
 ## Hi there 👋
-# 👋 Hi, I'm Hooman Sabzi
+# I'm Hooman Sabzi
 
-- 🎓 MSc in Physics of Data | University of Padua
-- 🎓 BSc in Physics
-- 💻 Interested in Machine Learning, Data Science & Physics  
-- 🌍 Based in Padua, Italy
+- MSc in Physics of Data | University of Padua
+- BSc in Physics
+- Interested in Machine Learning, Data Science & Physics  
+- Based in Padua, Italy
 
-## 🚀 Projects
-- 🔬 [Quantum Simulation Toolkit](https://github.com/your-username/quantum-sim)
-- 📊 [Stock Price Predictor using LSTM](https://github.com/your-username/stock-predictor)
-- 🤖 [AI for Particle Classification](https://github.com/your-username/particle-ai)
+## Projects
+- [Quantum Simulation Toolkit](https://github.com/your-username/quantum-sim)
+- [Stock Price Predictor using LSTM](https://github.com/your-username/stock-predictor)
+- [AI for Particle Classification](https://github.com/your-username/particle-ai)
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python, R, C++
 - Pandas, NumPy, Scikit-Learn, TensorFlow
 - Git, Linux, Jupyter, VSCode
