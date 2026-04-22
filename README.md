@@ -3,7 +3,7 @@
 - MSc in Physics of Data | University of Padua (Padova)
 - BSc in Physics | Shahid Beheshti University (National University of Iran)
 - Interested in Machine Learning, Data Science &  Statistical Physics
-
+<!--
 ## Projects
 - [Quantum Simulation Toolkit](https://github.com/your-username/quantum-sim)
 - [Stock Price Predictor using LSTM](https://github.com/your-username/stock-predictor)
